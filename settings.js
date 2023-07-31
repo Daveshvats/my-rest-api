@@ -3,8 +3,8 @@ const fs = require('fs')
 global.creator = 'Zeeoneofc'// yourname
 global.MONGO_DB_URI = "mongodb+srv://ghost:devilvats@cluster0.z0jsvx7.mongodb.net/?retryWrites=true&w=majority" //database mongodb 
 global.ACTIVATION_TOKEN_SECRET = "-@Pqnap+@(/1jAPPnew/@10" //isi apa aja bebas
-global.your_email = "vatsdavesh@gmail.com" //email
-global.email_password = "Devilvats@1955" //application password email
+global.your_email = "dluise138@gmail.com" //email
+global.email_password = "1000&1000" //application password email
 global.limitCount = 10000
 global.YUOR_PORT = 8000
 global.loghandler = {
